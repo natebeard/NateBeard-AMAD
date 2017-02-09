@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Miles Davis</key>
+	<array>
+		<string>Bitches Brew</string>
+	</array>
+	<key>David Bowie</key>
+	<array>
+		<string>The Man Who Sold the World</string>
+		<string>The Rise and Fall of Ziggy Stardust and the Spiders from Mars</string>
+		<string>Aladdin Sane</string>
+		<string>Scary Monsters and Super Creeps</string>
+		<string>The Buddha of Suburbia</string>
+	</array>
+	<key>Dr Dre</key>
+	<array>
+		<string>Compton</string>
+		<string>N.W.A. and the Posse</string>
+		<string>2001</string>
+		<string>Straight Outta Compton</string>
+		<string>Chronic</string>
+	</array>
+	<key>Bruce Springsteen</key>
+	<array>
+		<string>The Rising</string>
+		<string>Born to Run</string>
+		<string>The Promise</string>
+		<string>Born in the USA</string>
+		<string>Darkness on the Edge of Town</string>
+	</array>
+	<key>Johnny Cash</key>
+	<array>
+		<string>Blood Sweat &amp; Tears</string>
+		<string>Ride This Train</string>
+		<string>Unchained</string>
+		<string>American Recordings</string>
+		<string>The Legend of Johnny Cash</string>
+	</array>
+	<key>Justice</key>
+	<array>
+		<string>† </string>
+		<string>Audio, Video, Disco</string>
+		<string>Woman</string>
+		<string>A Cross the Universe</string>
+		<string>Access All Arenas</string>
+	</array>
+	<key>Jay-Z</key>
+	<array>
+		<string>Reasonable Doubt</string>
+		<string>American Gangster</string>
+		<string>The Black Album</string>
+		<string>The Blueprint</string>
+		<string>Watch the Throne</string>
+	</array>
+	<key>Ted Nugent</key>
+	<array>
+		<string>Free-for-All</string>
+		<string>Cat Scratch Fever</string>
+		<string>Weekend Warriors</string>
+		<string>State of Shock</string>
+		<string>Scream Dream</string>
+	</array>
+</dict>
+</plist>
