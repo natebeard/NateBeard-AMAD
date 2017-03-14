@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>organizations</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Student Legal Services</string>
+			<key>url</key>
+			<string>http://www.cubouldersls.com/</string>
+			<key>type</key>
+			<string>Student</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CUSG</string>
+			<key>url</key>
+			<string>http://cusg.colorado.edu/</string>
+			<key>type</key>
+			<string>Student</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gender and Sexuality Center</string>
+			<key>url</key>
+			<string>http://www.colorado.edu/gsc/</string>
+			<key>type</key>
+			<string>Student</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Off-Campus Housing &amp; Neighborhood Relations</string>
+			<key>url</key>
+			<string>http://ocss.colorado.edu/</string>
+			<key>type</key>
+			<string>Student</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder County AIDS Project</string>
+			<key>url</key>
+			<string>https://bcap.org/about-us/</string>
+			<key>type</key>
+			<string>Health</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder County Area Agency on Aging</string>
+			<key>url</key>
+			<string>http://www.bouldercounty.org/family/seniors/pages/agabout.aspx</string>
+			<key>type</key>
+			<string>Health</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Center for People with Disabilities</string>
+			<key>url</key>
+			<string>http://www.cpwd-ilc.org/</string>
+			<key>type</key>
+			<string>Health</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Artists and Inventors Legal Clinic</string>
+			<key>url</key>
+			<string>https://theartistsandinventorslegalclinic.com/</string>
+			<key>type</key>
+			<string>Business &amp; Employment</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder County Public Defender</string>
+			<key>url</key>
+			<string>http://pdweb.coloradodefenders.us</string>
+			<key>type</key>
+			<string>Criminal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder Police Department Victim Services</string>
+			<key>url</key>
+			<string>https://bouldercolorado.gov/police/victim-services</string>
+			<key>type</key>
+			<string>Criminal</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Safehouse Progressive Alliance for Nonviolence</string>
+			<key>url</key>
+			<string>http://www.safehousealliance.org/</string>
+			<key>type</key>
+			<string>Criminal</string>
+		</dict>
+	</array>
+</dict>
+</plist>

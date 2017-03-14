@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Business &amp; Employment</key>
+	<array>
+		<string>Artists and Inventors Legal Clinic</string>
+		<string>Silicon Flatirons</string>
+	</array>
+	<key>Civil Rights &amp; Immigration</key>
+	<array>
+		<string>Native American Rights Fund</string>
+		<string>Immigrant Legal Center of Boulder</string>
+		<string>Gay, Lesbian, Bisexual &amp; Transgender Community Center of CO</string>
+		<string>El Comite De Longmont</string>
+		<string>Boulder Police Department Victim Services</string>
+		<string>Safehouse Progressive Alliance for Nonviolence</string>
+	</array>
+	<key>Criminal</key>
+	<array>
+		<string>Boulder County Public Defender</string>
+		<string>Boulder County Bar Association</string>
+		<string>Safehouse Progressive Alliance for Nonviolence</string>
+	</array>
+	<key>Family &amp; Housing</key>
+	<array>
+		<string>City of Boulder Community Mediation Service</string>
+		<string>Children First of the Rockies</string>
+		<string>Boulder Bridge to Justice</string>
+		<string>Blue Sky Bridge, Child and Family Advocacy</string>
+	</array>
+	<key>Health</key>
+	<array>
+		<string>Boulder County AIDS Project Pro Bono Attorney Team</string>
+		<string>Boulder County Area Agency on Aging</string>
+		<string>Center for People with Disabilities</string>
+	</array>
+	<key>Students</key>
+	<array>
+		<string>Student Legal Services</string>
+		<string>CUSG</string>
+		<string>Gender and Sexuality Center</string>
+		<string>Off-Campus Housing &amp; Neighborhood Relations</string>
+		<string>Office of Institutional Equity and Compliance (OIEC)</string>
+		<string>Office of Student Conduct and Conflict Resolution</string>
+		<string>Office of Victim Assistance</string>
+		<string>Ombuds Office</string>
+		<string>Waldenburg Health Services</string>
+	</array>
+</dict>
+</plist>

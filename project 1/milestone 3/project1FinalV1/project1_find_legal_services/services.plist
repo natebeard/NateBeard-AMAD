@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Business &amp; Employment</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Artists and Inventors Legal Clinic</string>
+			<key>url</key>
+			<string>https://theartistsandinventorslegalclinic.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Silicon Flatirons</string>
+			<key>url</key>
+			<string>http://siliconflatirons.org/</string>
+		</dict>
+	</array>
+	<key>Civil Rights &amp; Immigration</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Native American Rights Fund</string>
+			<key>url</key>
+			<string>http://www.narf.org/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder Police Department Victim Services</string>
+			<key>url</key>
+			<string>https://bouldercolorado.gov/police/victim-services</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Commite De Longmont</string>
+			<key>url</key>
+			<string>http://www.elcomitedelongmont.org/en/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GLBT Community Center of CO</string>
+			<key>url</key>
+			<string>http://glbtcolorado.org/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Immigrant Legal Center</string>
+			<key>url</key>
+			<string>http://boulderayuda.org/ilcbc/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Safehouse Progressive Alliance for Nonviolence</string>
+			<key>url</key>
+			<string>http://www.safehousealliance.org/</string>
+		</dict>
+	</array>
+	<key>Criminal</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Boulder County Public Defender</string>
+			<key>url</key>
+			<string>http://pdweb.coloradodefenders.us</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder PD Victim Services</string>
+			<key>url</key>
+			<string>https://bouldercolorado.gov/police/victim-services</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Safehouse Progressive Alliance for Nonviolence</string>
+			<key>url</key>
+			<string>http://www.safehousealliance.org/</string>
+		</dict>
+	</array>
+	<key>Family &amp; Housing</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>City of Boulder Community Mediation Service</string>
+			<key>url</key>
+			<string>https://bouldercolorado.gov/community-relations/mediation-program</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Children First of the Rockies</string>
+			<key>url</key>
+			<string>http://www.ccfor.org/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder Bridge to Justice</string>
+			<key>url</key>
+			<string>http://www.boulderbridgetojustice.org/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blue Sky Bridge, Child and Family Advocacy</string>
+			<key>url</key>
+			<string>http://blueskybridge.org/protect-a-child/resources/</string>
+		</dict>
+	</array>
+	<key>Health</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Boulder County AIDS Project</string>
+			<key>url</key>
+			<string>https://bcap.org/about-us/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boulder County Area Agency on Aging</string>
+			<key>url</key>
+			<string>http://www.bouldercounty.org/family/seniors/pages/agabout.aspx</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Center for People with Disabilities</string>
+			<key>url</key>
+			<string>http://www.cpwd-ilc.org/</string>
+		</dict>
+	</array>
+	<key>Student</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Student Legal Services</string>
+			<key>url</key>
+			<string>http://www.cubouldersls.com/</string>
+		</dict>
+	</array>
+</dict>
+</plist>

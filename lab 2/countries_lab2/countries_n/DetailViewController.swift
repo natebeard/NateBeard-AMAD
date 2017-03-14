@@ -19,7 +19,7 @@ class DetailViewController: UITableViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         // QUESTION: This puts String data from Class Continents, continents PList (dictionary) into var
-        continentListDetail.continents = Array(continentListDetail.continentData.keys)
+        continentListDetail.continents = Array(continentListDetail.continentData.keys) 
         let chosenContinent = continentListDetail.continents[selectedContinent]
         countries = continentListDetail.continentData[chosenContinent]! as [String]
         
