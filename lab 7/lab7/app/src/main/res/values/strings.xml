@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Groceries List</string>
+    <string name="burger_cat">grocery list</string>
+    <string-array name="grocery_types">
+        <item>Food</item>
+        <item>Drinks</item>
+        <item>Personal Stuff</item>
+    </string-array>
+    <string name="grocery_image">Grocery Picture</string>
+    <string name="create_order">Order</string>
+    <string name="order_button">Order</string>
+</resources>

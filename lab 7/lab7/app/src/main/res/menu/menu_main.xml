@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/create_order"
+        android:title="@string/create_order"
+        android:icon="@drawable/ic_store"
+        android:showAsAction="ifRoom"/>
+
+    <!--The android:icon property assigns an icon for an item that will be shown if there’s room. -->
+    <!--If there’s no icon it will show the title. You can download Google’s icons here https://design.google.com/icons/ -->
+    <!--The android:showAsAction property defines how you want the item to appear – always in the main action bar or only if there’s room. -->
+    <!--If there’s not room it will go in the overflow area(displayed in three dots). -->
+    <!--Never will mean you’ll always get the 3 dots and the item will be in there.-->
+    <!--If you have multiple items in your menu the android:orderInCategory property would define the order in which they appear.-->
+    <!--You can also define different menus for different activities if you want the items to be different based on the activity the user is in.-->
+
+</menu>
