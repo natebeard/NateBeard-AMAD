@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "257037367729",
+    "firebase_url": "https://practice-project-a57d8.firebaseio.com",
+    "project_id": "practice-project-a57d8",
+    "storage_bucket": "practice-project-a57d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257037367729:android:3de807b9c6441e14",
+        "android_client_info": {
+          "package_name": "com.example.natebeard.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257037367729-2qc18p3jqhb7ou2f5pnil2qge1veog6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.natebeard.firebasetest",
+            "certificate_hash": "7b2a9ec7b46fa26293ae46f619982252356efa73"
+          }
+        },
+        {
+          "client_id": "257037367729-46s6qms42bunt5mh1kq7ek3ppm3g23e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtnu8gRY1UqiSRChmpqbdGhprb989FkM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257037367729-3l367iei58g4fkfsctcae605d4q220i2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ATLAS.recipes-n"
+              }
+            },
+            {
+              "client_id": "257037367729-46s6qms42bunt5mh1kq7ek3ppm3g23e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
