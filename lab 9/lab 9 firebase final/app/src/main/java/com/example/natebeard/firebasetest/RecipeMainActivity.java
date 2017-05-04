@@ -2,6 +2,8 @@ package com.example.natebeard.firebasetest;
 
 import android.app.Dialog;
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
@@ -132,6 +134,16 @@ public class RecipeMainActivity extends AppCompatActivity {
         ref.addValueEventListener(firebaseListener);
         registerForContextMenu(recipeList);
 
+        AdapterView.OnItemClickListener itemClickListener = new AdapterView.OnItemClickListener(){
+            public void onItemClick(AdapterView<?> listView, View view, int position, long id){
+                RecipeItem recipeTapped = (RecipeItem) recipes.get(position);
+                String recipeURL = recipeTapped.getUrl();
+                Intent intent = new Intent(Intent.ACTION_VIEW);
+                intent.setData(Uri.parse(recipeURL));
+                startActivity(intent);
+            }
+        };
+        recipeList.setOnItemClickListener(itemClickListener);
 
     }
 
